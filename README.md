@@ -8,7 +8,7 @@ A simple Command-Line Expense Tracker built using Python.
 - Calculate total expenses
 - Store expense data in a CSV file
 
-## 🛠Technologies Used
+## Technologies Used
 - Python
 - CSV Module
 - File Handling
